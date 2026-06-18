@@ -31,7 +31,7 @@ I'm currently deepening my expertise in **C++ systems programming** and **networ
 | Project | Description | Stack |
 |---|---|---|
 | [SQL Complexity Classifier](https://github.com/Rcal97) | Hybrid ML classifier for NL2SQL query complexity — 94.48% accuracy on Spider benchmark | Python · TinyBERT · SVM |
-| [NetSentinel](https://github.com/Rcal97) | Network Intrusion Detection System with live packet capture and ImGui dashboard | C++17 · libpcap · CMake |
+| [NetSentinel](https://github.com/Rcal97/NetSentinel) | Network Intrusion Detection System with live packet capture and ImGui dashboard | C++17 · libpcap · CMake |
 | [Gestore Telefonico](https://github.com/Rcal97/gestore-telefonico-java) | JavaFX desktop phonebook with 5 GoF design patterns and SQLite persistence | Java · JavaFX · Maven |
 | [RaffCity](https://github.com/Rcal97/RaffCity) | Progressive Web App for urban mobility with GPS notifications and Leaflet.js maps | Python · Flask · PWA |
 
