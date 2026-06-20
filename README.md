@@ -34,6 +34,8 @@ I'm currently deepening my expertise in **C++ systems programming** and **networ
 | [NetSentinel](https://github.com/Rcal97/NetSentinel) | Network Intrusion Detection System with live packet capture and ImGui dashboard | C++17 · libpcap · CMake |
 | [Gestore Telefonico](https://github.com/Rcal97/gestore-telefonico-java) | JavaFX desktop phonebook with 5 GoF design patterns and SQLite persistence | Java · JavaFX · Maven |
 | [RaffCity](https://github.com/Rcal97/RaffCity) | Progressive Web App for urban mobility with GPS notifications and Leaflet.js maps | Python · Flask · PWA |
+| [Guardia e Ladri](https://github.com/Rcal97/guardia-e-ladri-c) | Terminal chase game on a grid — player controls the thief, guard pursues autonomously | C · Structs · Algorithms |
+| [Conto Corrente](https://github.com/Rcal97/conto-corrente-c) | Bank account management system with insert and delete operations | C · Structs · Arrays |
 
 ---
 
